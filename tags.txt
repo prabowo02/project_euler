@@ -1,0 +1,113 @@
+PE#253: dp
+PE#252: dp, geometry (?)
+PE#251: math (?)
+PE#250: dp, generating-function
+PE#249: sieve
+PE#248: dfs, pollard-rho, miller-rabin
+PE#247: dfs
+PE#246: geometry
+PE#245: prime-counting
+PE#244: bfs
+PE#243: math
+PE#242: series-multisection, cauchy-binomial-theorem, q-lucas-theorem, binomial-coefficient
+PE#241: precomputation
+PE#240: dp, combinatorics
+PE#239: combinatorics
+PE#238: brute-force, ntt, multipoint-evaluation
+PE#237: dp, matrix, dsu, bfs
+PE#236: brute-force
+PE#235: binary-search
+PE#234: segmented-sieve
+PE#233: sum-of-squares, prime-counting
+PE#232: dp, precomputation
+PE#231: newton-identities, sum-of-primes, dp
+PE#230: observation
+PE#229: sum-of-two-squares, legendre-symbol, pythagorean-triples
+PE#227: math, expected-number
+PE#226: math, ntt, generating-function, integration-by-parts
+PE#225: brute-force
+PE#224: pythagorean-triples, optimization, precomputation
+PE#223: pythagorean-triples, optimization
+PE#222: math, geometry
+PE#221: factorization, sieve, observation
+PE#220: math, big-integer
+PE#219: math
+PE#218: observation
+PE#217: dp
+PE#216: sieve, observation, tonelli-shanks
+PE#215: dfs, dp
+PE#214: ntt
+PE#213: dp, expected-number
+PE#212: dnc, inclusion-exclusion, geometry
+PE#211: data-structure
+PE#210: geometry
+PE#209: graph, dp, inclusion-exclusion, vertex-cover
+PE#208: combinatorics, precomputation(?)
+PE#207: math
+PE#206: brute-force, observation
+PE#205: ntt
+PE#204: dfs, mitm
+PE#203: precomputation, brute-force, combinatorics
+PE#202: inclusion-exclusion, pollard-rho, miller-rabin
+PE#201: dp
+PE#200: miller-rabin, observation
+PE#199: geometry, descartes-theorem
+PE#198: dfs, memoization
+PE#197: math
+PE#196: segmented-sieve
+PE#195: parametrization, observation
+PE#194: graph-coloring, dp (?)
+PE#193: mobius
+PE#192: stern-brocot, big-integer
+PE#191: dp
+PE#190: lagrangian-multiplier, fft
+PE#189: dp
+PE#188: pollard-rho, miller-rabin, tetration
+PE#187: sieve
+PE#186: dsu
+PE#185: mitm
+PE#184: observation, sieve, inclusion-exclusion
+PE#183: math
+PE#182: inclusion-exclusion, crt
+PE#181: dp
+PE#180: fermat-last-theorem
+PE#179: sieve
+PE#178: dp
+PE#177: mitm
+PE#176: brute-force
+PE#175: stern-brocot
+PE#174: dp
+PE#173: math
+PE#172: fft
+PE#171: dp
+PE#170: observation, precomputation
+PE#169: dp
+PE#168: brute-force
+PE#167: precomputation
+PE#166: brute-force
+PE#165: geometry
+PE#164: dp
+PE#163: math
+PE#162: dp
+PE#161: dp, bitmask
+PE#160: crt, legendre-formula
+PE#159: additive-function
+PE#158: dp, combinatorics
+PE#157: miller-rabin, math
+PE#156: precomputation
+PE#155: brute-force, dp, implementation, precomputation
+PE#154: legendre-formula, math
+PE#153: math, stern-brocot
+PE#152: math, precomputation
+PE#151: dp
+PE#150: dp
+PE#149: dp
+PE#148: dp
+PE#147: math
+PE#146: miller-rabin
+PE#145: dp, precomputation
+PE#144: geometry
+PE#143: pythagorean-triples, precomputation
+PE#142: pythagorean-triples
+PE#141: data-structure
+
