@@ -1,3 +1,4 @@
+PE#257: parameterization, geometry
 PE#256: number-theory
 PE#255: dfs
 PE#254: dp, brute-force
@@ -58,7 +59,7 @@ PE#199: geometry, descartes-theorem
 PE#198: dfs, memoization
 PE#197: math
 PE#196: segmented-sieve
-PE#195: parametrization, observation
+PE#195: parameterization, observation
 PE#194: graph-coloring, dp (?)
 PE#193: mobius
 PE#192: stern-brocot, big-integer
