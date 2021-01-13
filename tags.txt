@@ -1,3 +1,6 @@
+PE#260: dp, brute-force
+PE#259: brute-force
+PE#258: fft
 PE#257: parameterization, geometry
 PE#256: number-theory
 PE#255: dfs

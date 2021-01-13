@@ -105,15 +105,13 @@ void parameterization(int n) {
   // Primitive when (p, q) coprime and p odd
 
   // k = 2
-  for (int p = 1; p*p <= n; p += 2) {
+  for (int p = 1; 3*p*p <= n; p += 2) {
     for (int q = p/2 + 1; q < p; ++q) {
-      long long a = 1LL * p * q;
-      long long b = a + 2LL * q * q;
-      long long c = a + 1LL * p * p;
-      if (a + b + c > n) break;
+      int perimeter = 3*p*q + 2*q*q + p*p;
+      if (perimeter > n) break;
 
       // finding coprimes can still be optimized using stern-brocot
-      if (gcd(p, q) == 1) ans += n / (a + b + c);
+      if (gcd(p, q) == 1) ans += n / perimeter;
     }
   }
 
@@ -123,15 +121,13 @@ void parameterization(int n) {
   // If p and q have the same parity, solution is a/2, b/2, c/2
 
   // k = 3
-  for (int p = 1; p*p <= n; ++p) {
+  for (int p = 1; 4*p*p <= n*3; ++p) {
     if (p % 3 == 0) continue;
     for (int q = p/3 + 1; q < p; ++q) {
-      long long a = 2LL * p * q;
-      long long b = 1LL * p * q + 3LL * q * q;
-      long long c = 1LL * p * q + 1LL * p * p;
-      if (a + b + c > n * 2) break;
-      if ((p - q) % 2 == 0) a /= 2, b /= 2, c /= 2;
-      if (a + b + c <= n && gcd(p, q) == 1) ans += n / (a + b + c);
+      int perimeter = 4*p*q + 3*q*q + p*p;
+      if (perimeter > n * 2) break;
+      if (p % 2 == q % 2) perimeter /= 2;
+      if (perimeter <= n && gcd(p, q) == 1) ans += n / perimeter;
     }
   }
   printf("%lld\n", ans);
