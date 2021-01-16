@@ -1,3 +1,4 @@
+PE#261: pell
 PE#260: dp, brute-force
 PE#259: brute-force
 PE#258: fft
