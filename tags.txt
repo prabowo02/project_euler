@@ -1,3 +1,7 @@
+PE#265: graph, dfs
+PE#264: geometry, brute-force
+PE#263: sieve, brute-force
+PE#262: binary-search
 PE#261: pell
 PE#260: dp, brute-force
 PE#259: brute-force
