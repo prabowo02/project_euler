@@ -1,3 +1,5 @@
+PE#268: inclusion-exclusion
+PE#267: probability, dp, math
 PE#266: mitm
 PE#265: graph, dfs
 PE#264: geometry, brute-force
