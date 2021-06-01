@@ -1,3 +1,7 @@
+PE#272: dfs, number-theory
+PE#271: crt
+PE#270: dp, geometry
+PE#269: dp, brute-force
 PE#268: inclusion-exclusion
 PE#267: probability, dp, math
 PE#266: mitm
