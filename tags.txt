@@ -1,6 +1,19 @@
+PE#840: generating-function
+PE#839: greedy
+PE#838: number-theory, maxflow
+PE#837: combinatorics
 PE#836: april-fools
 PE#835: matrix, pell
 
+PE#281: combinatorics
+PE#280: dp, markov
+PE#279: pythagorean-triples, hyperbola-method
+PE#278: brute-force, chicken-nugget
+PE#277: number-theory
+PE#276: mobius, generating-function, combinatorics
+PE#275: polyominoes
+PE#274: number-theory
+PE#273: sum-of-squares
 PE#272: dfs, number-theory
 PE#271: crt
 PE#270: dp, geometry
