@@ -5,6 +5,10 @@ PE#837: combinatorics
 PE#836: april-fools
 PE#835: matrix, pell
 
+PE#298: dp
+PE#297: dp
+PE#296: geometry, brute-force
+PE#295: brute-force, number-theory
 PE#294: dp
 PE#293: brute-force
 PE#292: dp
