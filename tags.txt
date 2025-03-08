@@ -5,6 +5,11 @@ PE#837: combinatorics
 PE#836: april-fools
 PE#835: matrix, pell
 
+
+PE#314: dp
+PE#313: number-theory
+PE#312: math
+PE#311: sum-of-squares
 PE#310: game, dp
 PE#309: pythagorean-triples
 PE#308: fractran, simulation
