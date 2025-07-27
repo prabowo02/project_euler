@@ -7,7 +7,7 @@ PE#835: matrix, pell
 
 PE#327: dp
 PE#326: pattern
-PE#325: 
+PE#325: games, floor-sum, stern-brocot
 PE#324: matrix
 PE#323: dp, generating-function
 PE#322: number-theory, crt, inclusion-exclusion
