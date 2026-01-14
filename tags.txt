@@ -5,6 +5,8 @@ PE#837: combinatorics
 PE#836: april-fools
 PE#835: matrix, pell
 
+PE#337: dp, data-structure
+PE#336: brute-force
 PE#335: math
 PE#334: data-structure
 PE#333: dp
