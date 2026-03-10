@@ -5,6 +5,11 @@ PE#837: combinatorics
 PE#836: april-fools
 PE#835: matrix, pell
 
+PE#343: number-theory, tonelli-shanks
+PE#342: number-theory
+PE#341: sequence
+PE#340: math
+PE#339: dp, markov
 PE#338: number-theory, floor
 PE#337: dp, data-structure
 PE#336: brute-force
