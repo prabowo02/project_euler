@@ -5,6 +5,12 @@ PE#837: combinatorics
 PE#836: april-fools
 PE#835: matrix, pell
 
+PE#358: primitive-root
+PE#357: brute-force
+PE#356: math, matrix
+PE#355: bipartite-matching
+PE#354: lattice
+PE#353: shortest-path
 PE#352: dp
 PE#351: sieve
 PE#350: number-theory
