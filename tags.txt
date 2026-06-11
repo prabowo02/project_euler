@@ -5,7 +5,15 @@ PE#837: combinatorics
 PE#836: april-fools
 PE#835: matrix, pell
 
-PE#359: thue-morse
+
+PE#366: game, zeckendorf
+PE#365: number-theory, combinatorics
+PE#364: combinatorics
+PE#363: math, geometry
+PE#362: number-theory, prime-counting
+PE#361: thue-morse
+PE#360: lattice, number-theory
+PE#359: pattern
 PE#358: primitive-root
 PE#357: brute-force
 PE#356: math, matrix
