@@ -5,6 +5,7 @@ PE#837: combinatorics
 PE#836: april-fools
 PE#835: matrix, pell
 
+PE#372: floor-sum
 PE#371: dp
 PE#370: sieve, number-theory
 PE#369: dp
